@@ -1,0 +1,17 @@
+.login-facebook-btn{
+font-family: Helvetica, sans-serif;
+  font-weight: 700;
+  -webkit-font-smoothing: antialiased;
+  color: #fff;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  font-size: 16px;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: background-color 0.3s, border-color 0.3s;
+  background-color: #4c69ba;
+  padding: 15px 20px;
+  border: none;
+  width: 100%;
+}
